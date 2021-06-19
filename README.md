@@ -1,3 +1,3 @@
 # spring-jsp-todolist
 
-SpringFramework-JSP-Hibernate-Javascript todolist app
+SpringFramework-JSP-Hibernate-Javascript note taking - todolist app
